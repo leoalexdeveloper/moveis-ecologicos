@@ -1,4 +1,0 @@
-temp/
-todo..txt
-*.log
-imagens/*.bmp
